@@ -30,7 +30,7 @@ No way.
 2. **A**pache
 
 ```shell
-sudo apt install -y apache2
+sudo apt install -y apache2 && sudo apt install -y libapache2-mod-php
 ```
 
 About libapache2-mod-auth-mysql:
