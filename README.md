@@ -5,7 +5,9 @@
 
 <br/>
 
-## Semi-Automatic
+## Install & Configure
+
+### Semi-Automatic
 
 [teddysun/lamp: Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Debian/Ubuntu](//github.com/teddysun/lamp)
 
@@ -13,13 +15,13 @@
 
 <br/>
 
-## Automatic
+### Automatic
 
 No way.
 
 <br/>
 
-## Manual
+### Manual
 
 1. **L**inux -> Ubuntu
 
@@ -74,3 +76,9 @@ sudo apt install -y php && sudo apt install -y php-mysql
 ```shell
 sudo apt install -y phpmyadmin
 ```
+
+<br/>
+
+## Applications
+
+- [#](./Applications/owncloud.md) | ownCloud
