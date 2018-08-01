@@ -24,6 +24,12 @@ sudo apt install owncloud-files
 
 <br/>
 
+Ref:
+
+- [Install package owncloud-files](http://download.owncloud.org/download/repositories/10.0/owncloud/)
+
+<br/>
+
 #### Install
 
 #### Configure
