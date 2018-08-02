@@ -82,3 +82,4 @@ sudo apt install -y phpmyadmin
 ## Applications
 
 - [#](./Applications/owncloud.md) | ownCloud
+- [#](./Applications/mediawiki.md) | MediaWiki
