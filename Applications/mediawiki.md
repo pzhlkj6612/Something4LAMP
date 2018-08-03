@@ -4,6 +4,8 @@
 
 ...
 
+<br/>
+
 #### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation progress
 
 0. Remove pre-compiled version of ```ImageMagick```
@@ -11,6 +13,8 @@
 ```shell
 sudo apt purge imagemagick
 ```
+
+<br/>
 
 1. Install ```freetype2```
 
@@ -55,6 +59,7 @@ make check
 
 Ref:
 
+- [Image thumbnailing # Manual:Installing third-party tools - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installing_third-party_tools#Image_thumbnailing)
 - [Install from Source @ ImageMagick](http://www.imagemagick.org/script/install-source.php)
 - [How to Install FreeType 2.8 in Ubuntu 16.04, 17.04 | UbuntuHandbook](http://ubuntuhandbook.org/index.php/2017/06/install-freetype-2-8-in-ubuntu-16-04-17-04/)
 - [Installing ImageMagick &amp; Ghostscript on Ubuntu](https://gist.github.com/leomelzer/3949356)
