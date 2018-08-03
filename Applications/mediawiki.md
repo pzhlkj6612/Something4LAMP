@@ -6,7 +6,7 @@
 
 <br/>
 
-#### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation progress
+#### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
 
 0. Remove pre-compiled version of ```ImageMagick```
 
