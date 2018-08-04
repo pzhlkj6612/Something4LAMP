@@ -4,6 +4,12 @@
 
 ...
 
+#### Install
+
+```shell
+sudo apt install -y apache2 php mysql-server libapache2-mod-php php-apcu php-mysql php-intl
+```
+
 <br/>
 
 #### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
