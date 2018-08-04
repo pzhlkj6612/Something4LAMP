@@ -57,6 +57,12 @@ make check
 
 <br/>
 
+PS:
+
+- Download ```ImageMagick``` from these mirrors: [Mirror @ ImageMagick](http://www.imagemagick.org/script/mirror.php)
+
+<br/>
+
 Ref:
 
 - [Image thumbnailing # Manual:Installing third-party tools - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installing_third-party_tools#Image_thumbnailing)
