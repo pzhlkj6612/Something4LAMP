@@ -24,6 +24,10 @@ sudo systemctl restart apache2.service
 
 <br/>
 
+- [Apache configuration - MediaWiki](https://www.mediawiki.org/wiki/Apache_configuration)
+
+<br/>
+
 ##### PHP
 
 ```shell
@@ -66,6 +70,21 @@ shmop support => enabled
 SPL support => enabled
 sysvmsg support => enabled
 ```
+
+<br/>
+
+- [PHP # Manual:Installation requirements - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installation_requirements#PHP)
+- [apt - PHP OpenSSL extension has a package? - Ask Ubuntu](https://askubuntu.com/questions/323005/php-openssl-extension-has-a-package)
+
+<br/>
+
+##### MySQL
+
+...
+
+<br/>
+
+- [MariaDB/MySQL # Create a database # Manual:Installing MediaWiki - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installing_MediaWiki#MariaDB/MySQL)
 
 <br/>
 
