@@ -2,12 +2,24 @@
 
 ### MediaWiki
 
-...
+#### Install && Configure
 
-#### Install
+##### Base
 
 ```shell
 sudo apt install -y apache2 php mysql-server libapache2-mod-php php-apcu php-mysql php-intl
+```
+
+<br/>
+
+##### Apache
+
+```shell
+sudo a2enmod rewrite
+```
+
+```shell
+sudo systemctl restart apache2.service
 ```
 
 <br/>
