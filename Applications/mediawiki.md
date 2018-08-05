@@ -24,6 +24,51 @@ sudo systemctl restart apache2.service
 
 <br/>
 
+##### PHP
+
+```shell
+sudo apt install -y php-mbstring php-curl
+```
+
+If you want use ```ImageMagick```, don't install ```GD``` by following command,
+```shell
+sudo apt install -y php-gd
+```
+
+Check,
+
+```shell
+php -i | grep support
+```
+
+```
+Calendar support => enabled
+date/time support => enabled
+fileinfo support => enabled
+FTP support => enabled
+FTPS support => enabled
+hash support => enabled
+MHASH support => Enabled
+iconv support => enabled
+Internationalization support => enabled
+json support => enabled
+libXML support => active
+Multibyte (japanese) regex support => enabled
+Compression => supported
+core SSL => supported
+extended SSL => supported
+OpenSSL support => enabled
+pcntl support => enabled
+PDO support => enabled
+Phar: PHP Archive support => enabled
+Native OpenSSL support => enabled
+shmop support => enabled
+SPL support => enabled
+sysvmsg support => enabled
+```
+
+<br/>
+
 #### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
 
 0. Remove pre-compiled version of ```ImageMagick```
