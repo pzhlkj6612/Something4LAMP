@@ -14,9 +14,13 @@ sudo apt install -y apache2 php mysql-server libapache2-mod-php php-apcu php-mys
 
 ##### Apache
 
+Enable ```rewrite``` module,
+
 ```shell
 sudo a2enmod rewrite
 ```
+
+Make it effective,
 
 ```shell
 sudo systemctl restart apache2.service
@@ -30,11 +34,14 @@ sudo systemctl restart apache2.service
 
 ##### PHP
 
+Install extensions ```php-mbstring``` and ```php-curl```,
+
 ```shell
 sudo apt install -y php-mbstring php-curl
 ```
 
 If you want use ```ImageMagick```, don't install ```GD``` by following command,
+
 ```shell
 sudo apt install -y php-gd
 ```
