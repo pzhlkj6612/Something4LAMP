@@ -86,11 +86,23 @@ Secure MySQL firstly,
 mysql_secure_installation
 ```
 
-...
+Then, create user and database for mediawiki,
+
+```mysql
+CREATE DATABASE wikidb;
+GRANT ALL PRIVILEGES ON wikidb.* TO 'wikiuser'@'localhost' IDENTIFIED BY 'password';
+```
+
+Delete ```.mysql_history``` to avoid leaking passwords,
+
+```shell
+rm ~/.mysql_history
+```
 
 <br/>
 
 - [MariaDB/MySQL # Create a database # Manual:Installing MediaWiki - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installing_MediaWiki#MariaDB/MySQL)
+- [Disable MySQL History &#8211; Clear ~/.mysql_history and MYSQL_HISTFILE](https://www.thegeekstuff.com/2010/01/disable-mysql-history-clear-mysql_history-and-mysql_histfile/)
 
 <br/>
 
