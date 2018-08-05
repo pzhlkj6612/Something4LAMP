@@ -75,6 +75,7 @@ sysvmsg support => enabled
 
 - [PHP # Manual:Installation requirements - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installation_requirements#PHP)
 - [apt - PHP OpenSSL extension has a package? - Ask Ubuntu](https://askubuntu.com/questions/323005/php-openssl-extension-has-a-package)
+- [PHP: Installation - Manual](http://php.net/manual/en/pcre.installation.php)
 
 <br/>
 
