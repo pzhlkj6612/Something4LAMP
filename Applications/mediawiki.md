@@ -80,6 +80,12 @@ sysvmsg support => enabled
 
 ##### MySQL
 
+Secure MySQL firstly,
+
+```shell
+mysql_secure_installation
+```
+
 ...
 
 <br/>
