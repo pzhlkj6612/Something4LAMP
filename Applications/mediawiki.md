@@ -107,7 +107,9 @@ rm ~/.mysql_history
 
 <br/>
 
-#### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
+#### Exception handling
+
+##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
 
 0. Remove pre-compiled version of ```ImageMagick```
 
