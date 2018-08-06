@@ -40,10 +40,10 @@ sudo systemctl restart apache2.service
 
 ##### PHP
 
-Install extensions ```php-mbstring``` and ```php-curl```,
+Install extensions ```php-mbstring```, ```php-xml``` and ```php-curl```,
 
 ```shell
-sudo apt install -y php-mbstring php-curl
+sudo apt install -y php-mbstring php-xml php-curl
 ```
 
 If you want use ```ImageMagick```, don't install ```GD``` by following command,
