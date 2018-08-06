@@ -4,6 +4,12 @@
 
 #### Install && Configure
 
+First of all, read [Manual:Running MediaWiki on Debian or Ubuntu - MediaWiki](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu).
+
+And, what you have to know is that the following are all shit :)
+
+<br/>
+
 ##### Base
 
 ```shell
