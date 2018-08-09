@@ -55,6 +55,8 @@ mysql_secure_installation
 
 [MySQL :: MySQL 5.7 Reference Manual :: 4.4.4 mysql_secure_installation — Improve MySQL Installation Security](https://dev.mysql.com/doc/refman/5.7/en/mysql-secure-installation.html)
 
+If something goes wrong: [16.04 - Cannot reinstall mysql-server after its purge - Ask Ubuntu](https://askubuntu.com/questions/763534/cannot-reinstall-mysql-server-after-its-purge/763623)
+
 <br/>
 
 4. **P**HP
