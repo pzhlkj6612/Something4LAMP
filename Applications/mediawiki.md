@@ -120,6 +120,12 @@ rm ~/.mysql_history
 
 <br/>
 
+#### Security issues
+
+[Manual:Security - MediaWiki](https://www.mediawiki.org/wiki/Manual:Security)
+
+<br/>
+
 #### Exception handling
 
 ##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
