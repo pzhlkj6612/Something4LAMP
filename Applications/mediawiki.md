@@ -128,7 +128,31 @@ rm ~/.mysql_history
 
 <br/>
 
-- ```.htaccess``` in ```/images``` folder(if File-upload enabled)
+##### For binary
+
+Prevent ```www-data``` destroying the wiki,
+
+```shell
+chown -R user-I-use:group-I-stay-in MediaWiki/
+```
+
+If File-upload enabled,
+
+```shell
+chown -R www-data:www-data MediaWiki/images/
+```
+
+*Staff Only*
+
+```shell
+chmod -R go-w MediaWiki/
+```
+
+<br/>
+
+##### For visitor
+
+- ```.htaccess``` in ```MediaWiki/images``` folder(if File-upload enabled)
 
 ```
 # Serve HTML as plaintext, don't execute SHTML
@@ -143,14 +167,14 @@ RemoveHandler .php
 </FilesMatch>
 ```
 
-- ```.htaccess``` in ```/mw-config``` folder(optional)
+- ```.htaccess``` in ```MediaWiki/mw-config``` folder(optional)
 
 ```
 order deny,allow
 deny from all
 ```
 
-- ```.htaccess``` in ```/``` folder
+- ```.htaccess``` in ```MediaWiki/``` folder
 
 ```
 options -indexes
