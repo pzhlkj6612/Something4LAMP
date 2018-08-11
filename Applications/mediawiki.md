@@ -124,6 +124,8 @@ rm ~/.mysql_history
 
 [Manual:Security - MediaWiki](https://www.mediawiki.org/wiki/Manual:Security)
 
+[Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads)
+
 <br/>
 
 - ```.htaccess``` in ```/images``` folder(if File-upload enabled)
