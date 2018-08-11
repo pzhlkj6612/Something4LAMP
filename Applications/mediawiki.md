@@ -120,6 +120,12 @@ rm ~/.mysql_history
 
 <br/>
 
+#### Tweaking
+
+##### Short URL
+
+<br/>
+
 #### Security issues
 
 [Manual:Security - MediaWiki](https://www.mediawiki.org/wiki/Manual:Security)
@@ -280,3 +286,7 @@ Ref:
 #### Pending
 
 - [Uploading directly from a URL ("Sideloading") # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Uploading_directly_from_a_URL_("Sideloading"))
+
+<br/>
+
+#### [FAQ](https://www.mediawiki.org/wiki/Manual:FAQ)
