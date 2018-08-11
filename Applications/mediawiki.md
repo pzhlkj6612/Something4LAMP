@@ -148,6 +148,13 @@ chown -R www-data:www-data MediaWiki/images/
 chmod -R go-w MediaWiki/
 ```
 
+Sensitive data in ```LocalSettings.php``` should be protected(More consideration needed),
+
+```shell
+chown www-data:group-I-stay-in MediaWiki/LocalSettings.php
+chmod 660 MediaWiki/LocalSettings.php
+```
+
 <br/>
 
 ##### For visitor
