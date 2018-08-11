@@ -4,11 +4,24 @@
 
 #### Install && Configure
 
-First of all, read [Manual:Running MediaWiki on Debian or Ubuntu - MediaWiki](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu).
+First of all, read [Manual:Running MediaWiki on Debian or Ubuntu - MediaWiki](https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Debian_or_Ubuntu) if you use Debian/**Ubuntu**.
 
 And, what you have to know is that the following are all shit :)
 
-<br/>
+---
+
+- [Main installation guide # Manual:Installation guide - MediaWiki](https://www.mediawiki.org/wiki/Manual:Installation_guide#Main_installation_guide)
+  - Before installation
+    - [Read what MediaWiki is](https://www.mediawiki.org/wiki/Manual:What_is_MediaWiki%3F)
+    - [Check the MediaWiki feature list](https://www.mediawiki.org/wiki/Manual:MediaWiki_feature_list)
+    - [Installation requirements](https://www.mediawiki.org/wiki/Manual:Installation_requirements) - Check these before going any further!
+  - [Installing MediaWiki](https://www.mediawiki.org/wiki/Manual:Installing_MediaWiki)
+  - Configuring MediaWiki
+    - [Initial configuration](https://www.mediawiki.org/wiki/Manual:Config_script) (using the configuration script)
+    - [Further configuration](https://www.mediawiki.org/wiki/Manual:System_administration)
+    - [Installing extensions](https://www.mediawiki.org/wiki/Manual:Extensions)
+
+---
 
 ##### Base
 
