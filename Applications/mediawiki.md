@@ -172,6 +172,8 @@ RemoveHandler .php
 <FilesMatch "\.ph(p[3457]?s?|tml)$">
    SetHandler None
 </FilesMatch>
+
+php_flag engine off
 ```
 
 - ```.htaccess``` in ```MediaWiki/mw-config``` folder(optional)
