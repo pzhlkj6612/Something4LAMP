@@ -126,6 +126,32 @@ rm ~/.mysql_history
 
 <br/>
 
+- ```.htaccess``` in ```/images``` folder(if File-upload enabled)
+
+```
+# Serve HTML as plaintext, don't execute SHTML
+AddType text/plain .html .htm .shtml .phtml .php .php3 .php4 .php5 .php7
+
+# Old way of registering php with AddHandler
+RemoveHandler .php
+
+# Recent way of registering php with SetHandler
+<FilesMatch "\.ph(p[3457]?s?|tml)$">
+   SetHandler None
+</FilesMatch>
+```
+
+<br/>
+
+- ```.htaccess``` in ```/mw-config``` folder(optional)
+
+```
+order deny,allow
+deny from all
+```
+
+<br/>
+
 #### Exception handling
 
 ##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
