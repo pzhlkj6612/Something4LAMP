@@ -301,6 +301,7 @@ Ref:
 #### Pending
 
 - [Uploading directly from a URL ("Sideloading") # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Uploading_directly_from_a_URL_("Sideloading"))
+- [Configuring the upload form # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Configuring_the_upload_form)
 
 <br/>
 
