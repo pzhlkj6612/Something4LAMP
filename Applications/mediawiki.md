@@ -141,13 +141,17 @@ RemoveHandler .php
 </FilesMatch>
 ```
 
-<br/>
-
 - ```.htaccess``` in ```/mw-config``` folder(optional)
 
 ```
 order deny,allow
 deny from all
+```
+
+- ```.htaccess``` in ```/``` folder
+
+```
+options -indexes
 ```
 
 <br/>
