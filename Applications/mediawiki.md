@@ -158,6 +158,12 @@ options -indexes
 
 <br/>
 
+#### Something complicated
+
+- [Manual:Image administration - MediaWiki](https://www.mediawiki.org/wiki/Manual:Image_administration)
+
+<br/>
+
 #### Exception handling
 
 ##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
