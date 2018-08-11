@@ -122,7 +122,7 @@ rm ~/.mysql_history
 
 #### Tweaking
 
-##### Short URL
+##### [Short URL](https://www.mediawiki.org/wiki/Manual:Short_URL)
 
 <br/>
 
