@@ -197,6 +197,17 @@ options -indexes
 
 <br/>
 
+#### Extensions
+
+- [Extension:Math - MediaWiki](https://www.mediawiki.org/wiki/Extension:Math)
+
+<br/>
+
+- [Extension:UploadWizard - MediaWiki](https://www.mediawiki.org/wiki/Extension:UploadWizard)
+- [Extension:MsUpload - MediaWiki](https://www.mediawiki.org/wiki/Extension:MsUpload)
+
+<br/>
+
 #### Exception handling
 
 ##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
@@ -263,3 +274,9 @@ Ref:
 - [How to Install FreeType 2.8 in Ubuntu 16.04, 17.04 | UbuntuHandbook](http://ubuntuhandbook.org/index.php/2017/06/install-freetype-2-8-in-ubuntu-16-04-17-04/)
 - [Installing ImageMagick &amp; Ghostscript on Ubuntu](https://gist.github.com/leomelzer/3949356)
 - [Advanced Unix Source Installation @ ImageMagick](http://www.imagemagick.org/script/advanced-unix-installation.php)
+
+<br/>
+
+#### Pending
+
+- [Uploading directly from a URL ("Sideloading") # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Uploading_directly_from_a_URL_("Sideloading"))
