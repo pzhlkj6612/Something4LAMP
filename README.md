@@ -59,7 +59,7 @@ If something goes wrong: [16.04 - Cannot reinstall mysql-server after its purge 
 
 <br/>
 
-4. **P**HP
+4. [**P**HP](./Configurations/php.md)
 
 ```shell
 sudo apt install -y php && sudo apt install -y php-mysql
