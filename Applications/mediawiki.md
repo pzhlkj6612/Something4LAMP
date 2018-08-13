@@ -137,7 +137,8 @@ rm ~/.mysql_history
 
 ##### [Short URL](https://www.mediawiki.org/wiki/Manual:Short_URL)
 
-- [$wgScriptExtension *was removed completely in version 1.27.0*](https://www.mediawiki.org/wiki/Manual:$wgScriptExtension).
+- [MediaWiki ShortURL Builder - Redwerks](https://shorturls.redwerks.org/)
+- \*[$wgScriptExtension *was removed completely in version 1.27.0*](https://www.mediawiki.org/wiki/Manual:$wgScriptExtension).
 
 <br/>
 
