@@ -224,6 +224,29 @@ options -indexes
 
 <br/>
 
+#### TLS
+
+[TLS # Manual:Security - MediaWiki](https://www.mediawiki.org/wiki/Manual:Security#TLS)
+
+<br/>
+
+Ref:
+
+- [Getting Started -  Let&#39;s Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/getting-started/)
+- [User Guide &mdash; Certbot 0.26.0.dev0 documentation](https://certbot.eff.org/docs/using.html)
+
+<br/>
+
+- [使用Let&#39;s Encrypt加密你的小站 - SzeCheng - 博客园](http://www.cnblogs.com/SzeCheng/p/8075799.html)
+- [使用LetsEncrypt配置网站https - 简书](https://www.jianshu.com/p/ee5c589950d1)
+- [永久免费SSL安全证书Letsencrypt安装使用方法 - 阿里云](https://yq.aliyun.com/ziliao/65716)
+
+Ref++:
+
+- [What is SSL, TLS and HTTPS? | DigiCert &amp; Symantec](https://www.websecurity.symantec.com/security-topics/what-is-ssl-tls-https)
+
+<br/>
+
 #### Exception handling
 
 ##### Failed at ```make check``` caused by ```wandtest``` in ```ImageMagick``` installation process
