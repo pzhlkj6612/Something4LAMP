@@ -212,12 +212,6 @@ options -indexes
 
 <br/>
 
-#### Something complicated
-
-- [Manual:Image administration - MediaWiki](https://www.mediawiki.org/wiki/Manual:Image_administration)
-
-<br/>
-
 #### Extensions
 
 - [Extension:Math - MediaWiki](https://www.mediawiki.org/wiki/Extension:Math)
@@ -302,6 +296,13 @@ Ref:
 
 - [Uploading directly from a URL ("Sideloading") # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Uploading_directly_from_a_URL_("Sideloading"))
 - [Configuring the upload form # Manual:Configuring file uploads - MediaWiki](https://www.mediawiki.org/wiki/Manual:Configuring_file_uploads#Configuring_the_upload_form)
+
+<br/>
+
+#### Something complicated
+
+- [Manual:Image administration - MediaWiki](https://www.mediawiki.org/wiki/Manual:Image_administration)
+- [Manual:thumb.php - MediaWiki](https://www.mediawiki.org/wiki/Manual:Thumb.php)
 
 <br/>
 
