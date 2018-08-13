@@ -77,3 +77,12 @@ Ref++:
 ```
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
 ```
+
+<br/>
+
+#### Authentication and Authorization
+
+- [Authentication and Authorization - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/howto/auth.html)
+- [Require Directive # mod_authz_core - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/mod_authz_core.html#require)
+- [Order Directive # mod_access_compat - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/mod_access_compat.html#order)
+- [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](https://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
