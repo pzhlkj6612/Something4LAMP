@@ -69,3 +69,11 @@ Ref++:
 
 - [Configuring Apache Virtual Hosts | Servers for Hackers](https://serversforhackers.com/c/configuring-apache-virtual-hosts)
 - [\<VirtualHost\> Directive # core - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/core.html#virtualhost)
+
+### Pending
+
+#### AH00558
+
+```
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+```
