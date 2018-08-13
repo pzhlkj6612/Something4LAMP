@@ -29,7 +29,7 @@ No way.
 
 <br/>
 
-2. **A**pache
+2. [**A**pache](./Configurations/apache.md)
 
 ```shell
 sudo apt install -y apache2 && sudo apt install -y libapache2-mod-php
