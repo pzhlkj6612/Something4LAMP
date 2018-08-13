@@ -64,3 +64,8 @@ Ref:
 - [VirtualHost Examples - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/vhosts/examples.html)
 - [What is the difference between ServerName and ServerAlias in apache2 configuration? - Stack Overflow](https://stackoverflow.com/questions/18362166/what-is-the-difference-between-servername-and-serveralias-in-apache2-configurati)
 - [ubuntu 10.04 - Multiple &quot;ServerName&quot; per VHost? - Server Fault](https://serverfault.com/questions/294423/multiple-servername-per-vhost)
+
+Ref++:
+
+- [Configuring Apache Virtual Hosts | Servers for Hackers](https://serversforhackers.com/c/configuring-apache-virtual-hosts)
+- [\<VirtualHost\> Directive # core - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/core.html#virtualhost)
