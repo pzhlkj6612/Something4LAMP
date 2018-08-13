@@ -1,10 +1,40 @@
 ## Apache
 
+### .htaccess
+
+#### ```AllowOverride```
+
+In ```/etc/apache2/apache2.conf``` or ```/etc/apache2/sites-availables/bala.conf```'s ```<VirtualHost/>``` block,
+
+```xml
+<Directory /dir/to/your/documentRoot>
+  ...
+  AllowOverride All
+  ...
+<Directory>
+```
+
+<br/>
+
+#### Rewrite
+
+##### Prepare
+
+```rewrite``` mod need to be enabled,
+
+```shell
+sudo a2enmod rewrite
+```
+
+...
+
+<br/>
+
 ### Virtual Host
 
 #### ```ServerName```/```ServerAlias``` in name-based virtual host
 
-Edit ```/etc/apache2/sites-availables/bala.conf```,
+Edit ```/etc/apache2/sites-availables/bala.conf``` to accept request which "name" is *example.com* or *\*.example.com*,
 
 ```xml
 <VirtualHost *:80>
