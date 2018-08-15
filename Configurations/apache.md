@@ -28,6 +28,18 @@ sudo a2enmod rewrite
 
 ...
 
+Ref:
+
+- [How To Set Up Mod_Rewrite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite)
+
+<br/>
+
+#### Superset
+
+Ref++:
+
+- [25 Useful Apache &#039;.htaccess&#039; Tricks to Secure and Customize Websites](https://www.tecmint.com/apache-htaccess-tricks/)
+
 <br/>
 
 ### Virtual Host
