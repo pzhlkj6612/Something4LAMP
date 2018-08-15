@@ -43,7 +43,7 @@ About libapache2-mod-auth-mysql:
 
 <br/>
 
-3. **M**ySQL
+3. [**M**ySQL](//github.com/pzhlkj6612/Something4SQL/tree/HEAD/MySQL)
 
 ```shell
 sudo apt install -y mysql-server
