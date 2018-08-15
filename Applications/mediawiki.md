@@ -327,6 +327,7 @@ Ref:
 
 - [Manual:Image administration - MediaWiki](https://www.mediawiki.org/wiki/Manual:Image_administration)
 - [Manual:thumb.php - MediaWiki](https://www.mediawiki.org/wiki/Manual:Thumb.php)
+- [Customizing MediaWiki for beginners - MediaWiki](https://www.mediawiki.org/wiki/Customizing_MediaWiki_for_beginners)
 
 <br/>
 
