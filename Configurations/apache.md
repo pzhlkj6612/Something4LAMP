@@ -2,7 +2,7 @@
 
 ### .htaccess
 
-#### ```AllowOverride```
+#### Prerequisite - ```AllowOverride```
 
 In ```/etc/apache2/apache2.conf``` or ```/etc/apache2/sites-availables/bala.conf```'s ```<VirtualHost/>``` block,
 
