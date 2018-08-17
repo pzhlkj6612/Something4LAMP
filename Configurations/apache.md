@@ -34,9 +34,25 @@ sudo a2enmod rewrite
 
 ...
 
+<br/>
+
 Ref:
 
 - [How To Set Up Mod_Rewrite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-mod_rewrite)
+
+<br/>
+
+##### Syntax
+
+###### RewriteBase
+
+Ref:
+
+- [mod rewrite - How does RewriteBase work in .htaccess - Stack Overflow](https://stackoverflow.com/questions/704102/how-does-rewritebase-work-in-htaccess)
+
+<br/>
+
+...
 
 <br/>
 
