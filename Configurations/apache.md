@@ -17,7 +17,7 @@ In ```/etc/apache2/apache2.conf``` or ```/etc/apache2/sites-availables/bala.conf
   ...
   AllowOverride All
   ...
-<Directory>
+</Directory>
 ```
 
 <br/>
