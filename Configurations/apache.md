@@ -1,4 +1,4 @@
-## Apache
+## Apache 2.4
 
 ### .htaccess
 
