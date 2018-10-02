@@ -23,11 +23,11 @@ No way.
 
 ### Manual
 
-1. **L**inux -> [Ubuntu]((//github.com/pzhlkj6612/Something4Ubuntu-Desktop-1604-LTS/tree/HEAD/Tweak-My-Own-Ubuntu))
+1. **L**inux -> [Ubuntu](//github.com/pzhlkj6612/Something4Ubuntu-Desktop-1604-LTS/tree/HEAD/Tweak-My-Own-Ubuntu) 16.04
 
 <br/>
 
-2. [**A**pache](./Configurations/apache.md)
+2. [**A**pache](./Configurations/apache.md) 2.4
 
 ```shell
 sudo apt install -y apache2 && sudo apt install -y libapache2-mod-php
@@ -41,7 +41,7 @@ About libapache2-mod-auth-mysql:
 
 <br/>
 
-3. [**M**ySQL](//github.com/pzhlkj6612/Something4SQL/tree/HEAD/MySQL)
+3. [**M**ySQL](//github.com/pzhlkj6612/Something4SQL/tree/HEAD/MySQL) 5.7
 
 ```shell
 sudo apt install -y mysql-server
@@ -57,7 +57,7 @@ If something goes wrong: [16.04 - Cannot reinstall mysql-server after its purge 
 
 <br/>
 
-4. [**P**HP](./Configurations/php.md)
+4. [**P**HP](./Configurations/php.md) 7.0
 
 ```shell
 sudo apt install -y php && sudo apt install -y php-mysql
