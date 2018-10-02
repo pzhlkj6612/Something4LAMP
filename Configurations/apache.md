@@ -96,6 +96,7 @@ Ref++:
 
 - [Configuring Apache Virtual Hosts | Servers for Hackers](https://serversforhackers.com/c/configuring-apache-virtual-hosts)
 - [\<VirtualHost\> Directive # core - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/core.html#virtualhost)
+- [How the sections are merged # Configuration Sections - Apache HTTP Server Version 2.4](http://httpd.apache.org/docs/current/sections.html#merging)
 
 <br/>
 
