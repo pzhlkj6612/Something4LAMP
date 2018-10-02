@@ -111,6 +111,10 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 
 #### Authentication and Authorization
 
+```Require```(new) vs. ```Order```(old):
+
+> In 2.4, such access control is done in the same way as other authorization checks, using the new module mod_authz_host.    
+
 - [Authentication and Authorization - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/howto/auth.html)
 - [Require Directive # mod_authz_core - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/mod_authz_core.html#require)
 - [Order Directive # mod_access_compat - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/mod/mod_access_compat.html#order)
