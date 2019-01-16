@@ -259,12 +259,17 @@ sudo apt purge imagemagick
 
 <br/>
 
-1. Install ```freetype2```
+1. ~Install ```freetype2```~ (**Invalid**)
 
 ```shell
 sudo add-apt-repository ppa:glasen/freetype2
 sudo apt update
 sudo apt install -y freetype2-demos
+```
+
+```
+Err:5 http://ppa.launchpad.net/glasen/freetype2/ubuntu xenial Release
+  404  Not Found
 ```
 
 <br/>
