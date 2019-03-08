@@ -30,7 +30,7 @@ No way.
 2. [**A**pache](./Configurations/apache.md) 2.4
 
 ```shell
-sudo apt install -y apache2 && sudo apt install -y libapache2-mod-php
+sudo apt install -y apache2 libapache2-mod-php
 ```
 
 About libapache2-mod-auth-mysql:
@@ -60,7 +60,7 @@ If something goes wrong: [16.04 - Cannot reinstall mysql-server after its purge 
 4. [**P**HP](./Configurations/php.md) 7.0
 
 ```shell
-sudo apt install -y php && sudo apt install -y php-mysql
+sudo apt install -y php php-mysql
 ```
 
 <br/>
