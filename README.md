@@ -23,7 +23,7 @@ No way.
 
 ### Manual
 
-1. **L**inux -> [Ubuntu](//github.com/pzhlkj6612/Something4Ubuntu-Desktop-1604-LTS/tree/HEAD/Tweak-My-Own-Ubuntu) 16.04
+1. **L**inux -> Ubuntu
 
 <br/>
 
