@@ -83,3 +83,4 @@ sudo apt install -y phpmyadmin
 
 - [#](./Applications/owncloud.md) | ownCloud
 - [#](./Applications/mediawiki.md) | MediaWiki
+- \# | Nextcloud
